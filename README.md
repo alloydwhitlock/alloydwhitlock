@@ -1,16 +1,15 @@
-### Hi there 👋
+### About Adam Whitlock 👋
 
-<!--
-**alloydwhitlock/alloydwhitlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Version 1.0 #######
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 👪 Has a great wife & father to three wonderful kids
+- ☕ Probably drinks too much coffee
+- 🏠 Grew up in Lincoln, NE but really hasn’t been back in a decade
+Worked for a few places (Linkedin, CDW, LeMans Corporation, Glassdoor)
+- 💾 Deals with the “big data” and “site reliability engineering”
+- 💬 Ask me about Python, data engineering, Site Reliability Engineering (SRE), physical infrastructure...
+- 📫 How to reach me: 
+    - 💻 [linkedin.com/in/alloydwhitlock](https://www.linkedin.com/in/alloydwhitlock/)
+    - 🐦 [twitter.com/alloydwhitlock](https://twitter.com/alloydwhitlock)
+    - 🔩 [github.com/alloydwhitlock](https://github.com/alloydwhitlock
