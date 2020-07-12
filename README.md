@@ -12,4 +12,4 @@ Worked for a few places (Linkedin, CDW, LeMans Corporation, Glassdoor)
 - 📫 How to reach me: 
     - 💻 [linkedin.com/in/alloydwhitlock](https://www.linkedin.com/in/alloydwhitlock/)
     - 🐦 [twitter.com/alloydwhitlock](https://twitter.com/alloydwhitlock)
-    - 🔩 [github.com/alloydwhitlock](https://github.com/alloydwhitlock
+    - 🔩 [github.com/alloydwhitlock](https://github.com/alloydwhitlock)
