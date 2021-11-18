@@ -1,6 +1,6 @@
 ### About Adam Whitlock 👋
 
-###### Version 1.2 #######
+###### Version 1.3 #######
 
 - 😄 Pronouns: He/Him
 - 👪 Has a great wife & father to three wonderful kids
