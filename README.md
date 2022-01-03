@@ -12,7 +12,7 @@
 - 🏠 Currently works and lives in Middleton, WI 
 - 💾 Deals with "security", “big data”, and “site reliability engineering”
 - 💬 Enjoys reading books about behavior, long walks in the woods, and what the kids call "dreampop" (so hip)
-- 🎨 Got bored one day and made a Hugo theme, [huey](github.com/alloydwhitlock/huey/).
+- 🎨 Got bored one day and made a Hugo theme, [huey](https://github.com/alloydwhitlock/huey/).
 - 📫 How to reach Adam Whitlock: 
     - 💻 [linkedin.com/in/alloydwhitlock](https://www.linkedin.com/in/alloydwhitlock/)
     - 🐦 [twitter.com/alloydwhitlock](https://twitter.com/alloydwhitlock)
