@@ -1,14 +1,14 @@
 ### About Adam Whitlock 👋
 
-###### Version 1.5 #######
+###### Version 1.6 #######
 
 - 😄 Pronouns: He/Him
 - 👨‍👧‍👦 Single father to three wonderful kids
 - ☕ In reality does drink too much coffee, but sleeps mostly fine
-- 🧑‍🏭 Engineering director at SCUBA Analytics, working across development and operations teams to make them the best!
+- 🧑‍🏭 Head of Engineering at Behavure AI, working across development and operations teams to make them the best!
   - Learn about how I manage here: [Adam Whitlock Manager README.md](https://github.com/alloydwhitlock/README/blob/main/manager-readme.md)
 - 🏠 Currently works and lives in Madison, WI 
-- 💾 Deals with "metrics", "security", “big data”, and “site reliability engineering”
+- 💾 Deals with "metrics", "security", “big data”, and “site reliability engineering”. Obviously AI is in here now.
 - 💬 Enjoys reading books about behavior, long walks in the woods, and what the kids call "dreampop" (so hip)
 - 🎨 Got bored one day and made a Hugo theme, [huey](https://github.com/alloydwhitlock/huey/).
 - 📫 How to reach Adam Whitlock: 
