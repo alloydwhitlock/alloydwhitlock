@@ -32,6 +32,8 @@ Yes, I use Cursor, Claude Code, Codex, and whatever else sharpens the edge. I’
 
 In other words, I understand what's being generated before shipping it to the world. 
 
+---
+
 ### When I’m Not Engineering
 
 - &#9749; Drinks too much coffee. Sleeps mostly fine anyway.
@@ -40,9 +42,11 @@ In other words, I understand what's being generated before shipping it to the wo
 - &#127925; Listens to what the kids call “dreampop” and is, in fact, that cool
 - &#127968; Madison, WI
 
+---
+
 ### Let’s Talk
 
 - &#128279; <a href="https://www.linkedin.com/in/alloydwhitlock/">LinkedIn</a>
 - &#128187; <a href="https://github.com/alloydwhitlock">GitHub</a>
 
-<sub>v2.1 · probably caffeinated right now</sub>
+<sub>v2.1.1 · probably caffeinated right now</sub>
