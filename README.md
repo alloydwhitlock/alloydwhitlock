@@ -28,7 +28,10 @@ Leadership shouldn’t be implicit or guesswork. How I lead, what I expect, and 
 
 Yes, I use Cursor, Claude Code, Codex, and whatever else sharpens the edge. I’m not generating code and hoping it works. I’m generating code and *knowing* where it will break, then fixing it before it does. That’s what experience buys you: the instinct to ship fast and the judgment to ship correctly.
 
-In other words, I understand what's being generated before shipping it to the world. 
+In November 2024, I wrote a formal specification for helping AI tools understand codebases — a structured format (`structure.yaml`) for declaring project architecture, patterns, conventions, and AI-specific prompts. This was before `CLAUDE.md`, `AGENTS.md`, `.clinerules`, and `.windsurfrules` existed. While the ecosystem eventually converged on simpler markdown-based approaches, but the core idea — *tell the AI what your project is before it starts reading everything* — turned out to be exactly where the industry was headed.
+
+&#128209; <a href="https://github.com/alloydwhitlock/structure-file-spec">Structure File
+  Spec v1.0.0</a>
 
 ---
 
@@ -47,4 +50,4 @@ In other words, I understand what's being generated before shipping it to the wo
 - &#128279; <a href="https://www.linkedin.com/in/alloydwhitlock/">LinkedIn</a>
 - &#128187; <a href="https://github.com/alloydwhitlock">GitHub</a>
 
-<sub>v2.1.4 · probably caffeinated right now</sub>
+<sub>v2.1.6 · probably caffeinated right now</sub>
