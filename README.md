@@ -20,7 +20,7 @@ I’ve been the person getting paged at 2 AM, the person building the observabil
 
 Leadership shouldn’t be implicit or guesswork. How I lead, what I expect, and how decisions get made are documented and public:
 
-&#128214; <a href="https://github.com/alloydwhitlock/manager-readme">Manager README</a>
+&#128214; <a href="https://github.com/alloydwhitlock/README/blob/main/manager-readme.md">Manager README</a>
 
 ---
 
@@ -47,4 +47,4 @@ In other words, I understand what's being generated before shipping it to the wo
 - &#128279; <a href="https://www.linkedin.com/in/alloydwhitlock/">LinkedIn</a>
 - &#128187; <a href="https://github.com/alloydwhitlock">GitHub</a>
 
-<sub>v2.1.3 · probably caffeinated right now</sub>
+<sub>v2.1.4 · probably caffeinated right now</sub>
